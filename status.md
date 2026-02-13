@@ -1,2 +1,1 @@
-247 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-silver.png)
-<!-- Change 248 -->
+248 pull requests merged<br>Currently:<br>![pull-shark](images/pull-shark-silver.png)
